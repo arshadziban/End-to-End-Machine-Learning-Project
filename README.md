@@ -7,7 +7,7 @@ This repository is a hub for practical machine learning applications. Whether yo
 
 ## Getting Started
 1. Clone the repo: `git clone https://github.com/arshadziban/End-to-End-Machine-Learning-Project.git`
-2. Explore the project folders and run the notebooks/scripts.
+2. Explore the project folders and run the notebooks
 
 ## Tools & Technologies
 - Python
